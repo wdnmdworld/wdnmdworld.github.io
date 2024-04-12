@@ -3,10 +3,10 @@
     "theme_color": "#1fb5ad",
     "background_color": "#f1f2f7",
     "display": "standalone",
-    "name": "wdnmdc 的个人博客",
+    "name": "w9nm9 Blog",
     "start_url": ".",
-    "description": "记录精彩的程序人生",
-    "short_name": "wdnmdc 的个人博客",
+    "description": "不积跬步无以至千里",
+    "short_name": "${shortName}",
     "icons": [
         {
             "sizes": "48x48",
