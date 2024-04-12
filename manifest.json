@@ -5,8 +5,8 @@
     "display": "standalone",
     "name": "w9nm9 Blog",
     "start_url": ".",
-    "description": "不积跬步无以至千里",
-    "short_name": "${shortName}",
+    "description": "不积跬步，无以至千里；不积小流，无以成江海",
+    "short_name": "w9nm9 Blog",
     "icons": [
         {
             "sizes": "48x48",

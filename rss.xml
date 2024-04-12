@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>w9nm9 Blog</title>
+    <title>w9nmd Blog</title>
     <link>https://wdnmdworld.github.io</link>
     <atom:link href="https://wdnmdworld.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-    <description>不积跬步无以至千里</description>
+    <description>不积跬步，无以至千里；不积小流，无以成江海</description>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Thu, 11 Apr 2024 12:07:35 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 17:14:54 +0800</lastBuildDate>
     <language>zh-cn</language>
+    <item>
+      <title>HECTF2023</title>
+      <link>https://wdnmdworld.github.io/articles/2024/04/11/1712806891130.html</link>
+      <description>
+        <![CDATA[<p>HECTF2023 部分WP</p>]]>
+      </description>
+      <author>wdnmdc</author>
+      <guid>https://wdnmdworld.github.io/articles/2024/04/11/1712806891130.html</guid>
+      <category>CTF-WP</category>
+      <pubDate>Fri, 12 Apr 2024 17:14:05 +0800</pubDate>
+    </item>
     <item>
       <title>TPCTF2023 </title>
       <link>https://wdnmdworld.github.io/articles/2024/04/11/1712807945187.html</link>
@@ -18,17 +29,6 @@
       <guid>https://wdnmdworld.github.io/articles/2024/04/11/1712807945187.html</guid>
       <category>CTF-WP</category>
       <pubDate>Thu, 11 Apr 2024 11:59:05 +0800</pubDate>
-    </item>
-    <item>
-      <title>HECTF2023 部分WP</title>
-      <link>https://wdnmdworld.github.io/articles/2024/04/11/1712806891130.html</link>
-      <description>
-        <![CDATA[<p>HECTF2023 部分WP</p>]]>
-      </description>
-      <author>wdnmdc</author>
-      <guid>https://wdnmdworld.github.io/articles/2024/04/11/1712806891130.html</guid>
-      <category>CTF-WP</category>
-      <pubDate>Thu, 11 Apr 2024 11:41:31 +0800</pubDate>
     </item>
   </channel>
 </rss>
